@@ -5,9 +5,12 @@ class Lutador
     private $nacionalidade;
     
 
-    public function __construct($property)
+    protected $;
+
+    public function __construct($property, $)
     {
         $this->property = $property;
+        $this-> = $;
     }
 }
   
